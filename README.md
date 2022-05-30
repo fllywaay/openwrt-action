@@ -2,7 +2,13 @@
 
 # Actions-OpenWrt
 
-默认网关：192.168.199.1
+asus_rt-acrh17默认网关：192.168.199.1  默认密码：password
+
+newifi-d2默认网关：192.168.123.1  默认密码：password
+
+
+
+
 已添加 https://github.com/kenzok8/openwrt-packages 项目源
 
 
